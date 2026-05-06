@@ -7,9 +7,9 @@ Obviously, there will be several fixes to be made, and the code isn't clean. As 
 To preview GitHub HTML files, use these services by pasting the link https://github.com/GiamMaBasedResearchers/VLFMONITORING/blob/main/index.html:
 
 https://htmlpreview.github.io/?
-https://raw.githack.com/
+https://raw.githack.com/ (Tested / working)
 
 Thanks to:
 
 https://github.com/neoascetic/rawgithack
-https://github.com/htmlpreview/htmlpreview.github.com
+https://github.com/htmlpreview/htmlpreview.github.com (Tested / working)
